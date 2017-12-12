@@ -1,5 +1,5 @@
 # HueRotaryKnob
-Control Philips Hue Lamps with a rotary knob
+Control Philips Hue lamps with a rotary knob
 
 ## Idea
 Use a rotary knob, like a classic dimmer, to control Philips Hue lamps.
