@@ -16,5 +16,10 @@ namespace Rca.HrkSetupTool
         {
             InitializeComponent();
         }
+
+        private void beendenToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
