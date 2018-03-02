@@ -22,5 +22,29 @@ namespace Rca.HrkSetupTool.Properties {
                 return defaultInstance;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string LastBridgeIpAddress {
+            get {
+                return ((string)(this["LastBridgeIpAddress"]));
+            }
+            set {
+                this["LastBridgeIpAddress"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string LastBridgeId {
+            get {
+                return ((string)(this["LastBridgeId"]));
+            }
+            set {
+                this["LastBridgeId"] = value;
+            }
+        }
     }
 }
