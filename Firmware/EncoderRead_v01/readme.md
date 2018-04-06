@@ -12,7 +12,7 @@ Dargestellt werden die aktuell erfassten Messwerte.
 
 Erreichbar über die URL: [index.http://eh176201/index.html](http://eh176201/index.html)
 
-####Anzeige
+#### Anzeige
 Dargestellt werden folgende Messwerte. 
 
 * Temperatur in °C
@@ -33,7 +33,7 @@ In Abhängigkeit der Parametrierung werden tagesaktuelle oder historische Messda
 Erreichbar über die URL: [http://eh176201/chart.php](http://eh176201/chart.php)  
 Der Aufruf ohne weitere Parameter gibt den Tagesverlauf des aktuellen Tag aus, beginnend bei Stunde 0.
 
-####Anzeige
+#### Anzeige
 Im Diagramm werden folgende Messwerte dargestellt. 
 
 * Temperatur in °C
